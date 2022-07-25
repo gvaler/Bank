@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accounts>
+
+    <account type="StudentBankAccount">
+        <personalInfo>
+            <name>Dima Petrov</name>
+            <id>127451629</id>
+            <phone>052-5255444</phone>
+            <email>dimapetrov@sela.coil</email>
+        </personalInfo>
+        <college>Ort</college>
+    </account>
+
+    <account type="StudentBankAccount">
+        <personalInfo>
+            <name>Katia Barak</name>
+            <id>245725829</id>
+            <phone>052-5255444</phone>
+            <email>katiab@sela.co.il</email>
+        </personalInfo>
+        <college>Sela</college>
+    </account>
+    
+    <account type ="BankAccount">
+        <personalInfo>
+            <name>TValery Grey</name>
+            <id>336495628</id>
+            <phone>054-2222333</phone>
+            <email>talc@gamil.com</email>
+        </personalInfo>
+    </account>
+
+    <account type ="BankAccount">
+        <personalInfo>
+            <name>Valery Grey</name>
+            <id>361461538</id>
+            <phone>054-2222333</phone>
+            <email>talc@gamil.com</email>
+        </personalInfo>
+    </account>
+    
+    <account type ="BusinessBankAccount">
+        <personalInfo>
+            <name>Valery Grey</name>
+            <id>336495627</id>
+            <phone>052-8276766</phone>
+            <email>vlaer@gamil.com</email>
+        </personalInfo>
+        <BusinessInfo>
+            <town>Tel Aviv</town>
+            <hr>2</hr>
+            <profit>124</profit>
+            <free_information>Shop</free_information>
+        </BusinessInfo>
+    </account>
+
+    <account type ="BusinessBankAccount">
+        <personalInfo>
+            <name>Eden Nisimov</name>
+            <id>7</id>
+            <phone>053-1234321</phone>
+            <email>vlaesadasr@.com</email>
+        </personalInfo>
+        <BusinessInfo>
+            <town>Tel Aviv</town>
+            <hr>4</hr>
+            <profit>40</profit>
+            <free_information>Ice cream track</free_information>
+        </BusinessInfo>
+    </account>
+
+</accounts>
